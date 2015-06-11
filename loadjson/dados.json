@@ -1,35 +1,34 @@
-{"data": 
-	{
-		"current": {
-			"titulo":"default",
-			"cor": "vermelho",
-			"opcao1": "",
-			"opcao2": "",
-			"opcao3": "true",
-			"msg":"Carregando dados via js para o form 1",
-			"corp": "#cc0000",
-			"corp1": "#cc0000"
-		},
-		"dark": {
-			"titulo":"dark",
-			"cor": "azul",
-			"opcao1": "",
-			"opcao2": "true",
-			"opcao3": "",
-			"msg":"Carregando dados via js para o form 2",
-			"corp": "#00cc00",
-			"corp1": "#00cc00"
-		},
-		"red": {
-			"titulo":"red",
-			"cor": "verde",
-			"opcao1": "true",
-			"opcao2": "",
-			"opcao3": "",
-			"msg":"Carregando dados via js para o form 3",
-			"corp": "#ff0000",
-			"corp1": "#ff0000"
-		}
+{
+	"current": {
+		"titulo":"default",
+		"cor": "vermelho",
+		"opcao1": "",
+		"opcao2": "",
+		"opcao3": "true",
+		"msg":"Carregando dados via js para o form 1",
+		"corp": "#cc0000",
+		"corp1": "#cc0000"
+	},
+	"dark": {
+		"titulo":"dark",
+		"cor": "azul",
+		"opcao1": "",
+		"opcao2": "true",
+		"opcao3": "",
+		"msg":"Carregando dados via js para o form 2",
+		"corp": "#00cc00",
+		"corp1": "#00cc00"
+	},
+	"red": {
+		"titulo":"red",
+		"cor": "verde",
+		"opcao1": "true",
+		"opcao2": "",
+		"opcao3": "",
+		"msg":"Carregando dados via js para o form 3",
+		"corp": "#ff0000",
+		"corp1": "#ff0000"
 	}
 }
+
   
