@@ -1,33 +1,36 @@
 {
 	"current": {
 		"titulo":"default",
-		"cor": "vermelho",
+		"cor": "azul",
 		"opcao1": "",
 		"opcao2": "",
 		"opcao3": "true",
+		"logo_file": "http://www.tray.com.br/tray-cdn/uploads/2015/05/loja-virtual-icone.png",
 		"msg":"Carregando dados via js para o form 1",
 		"corp": "#cc0000",
 		"corp1": "#cc0000"
 	},
 	"dark": {
 		"titulo":"dark",
-		"cor": "azul",
+		"cor": "verde",
 		"opcao1": "",
-		"opcao2": "true",
-		"opcao3": "",
-		"msg":"Carregando dados via js para o form 2",
-		"corp": "#00cc00",
-		"corp1": "#00cc00"
+		"opcao2": "",
+		"opcao3": "true",
+		"logo_file": "http://www.tray.com.br/tray-cdn/uploads/2015/05/loja-virtual-icone.png",
+		"msg":"Carregando dados via js para o form 1",
+		"corp": "#000000",
+		"corp1": "#000000"
 	},
 	"red": {
-		"titulo":"red",
-		"cor": "verde",
-		"opcao1": "true",
+		"titulo":"default",
+		"cor": "vermelho",
+		"opcao1": "",
 		"opcao2": "",
-		"opcao3": "",
-		"msg":"Carregando dados via js para o form 3",
-		"corp": "#ff0000",
-		"corp1": "#ff0000"
+		"opcao3": "true",
+		"logo_file": "http://www.tray.com.br/tray-cdn/uploads/2015/05/loja-virtual-icone.png",
+		"msg":"Carregando dados via js para o form 1",
+		"corp": "#cc0000",
+		"corp1": "#cc0000"
 	}
 }
 
